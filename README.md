@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<h3 align="center">💻Once I've Used💻</h3>
+<h3 align="center">💻Skill Set💻</h3>
   
   <br>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">  
