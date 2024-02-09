@@ -1,22 +1,15 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=Waving&text=My%20Life%20Portfolio&fontColor=FFFFFF&fontSize=40&fontAlignY=27&&color=333&animation=twinkling)
-
-</div>
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="center"> 👨🏻‍💻 Seungchul Noh 👨🏻‍💻 </h3>
 
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stc9606&show_icons=true&theme=dracula)  
 </div>
 
-
 <br>
 
 <div align="center">
 
-<h3 align="center">💻Skill Set💻</h3>
+<h3 align="center">💻 Tech Stack 💻</h3>
   
   <br>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">  
